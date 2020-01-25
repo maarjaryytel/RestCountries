@@ -1,0 +1,13 @@
+C:\Users\maarj\OneDrive\Töölaud\RestCountries\bin\Debug\netcoreapp3.1\RestCountries.exe
+C:\Users\maarj\OneDrive\Töölaud\RestCountries\obj\Debug\netcoreapp3.1\RestCountries.csprojAssemblyReference.cache
+C:\Users\maarj\OneDrive\Töölaud\RestCountries\obj\Debug\netcoreapp3.1\RestCountries.AssemblyInfoInputs.cache
+C:\Users\maarj\OneDrive\Töölaud\RestCountries\obj\Debug\netcoreapp3.1\RestCountries.AssemblyInfo.cs
+C:\Users\maarj\OneDrive\Töölaud\RestCountries\bin\Debug\netcoreapp3.1\RestCountries.deps.json
+C:\Users\maarj\OneDrive\Töölaud\RestCountries\bin\Debug\netcoreapp3.1\RestCountries.runtimeconfig.json
+C:\Users\maarj\OneDrive\Töölaud\RestCountries\bin\Debug\netcoreapp3.1\RestCountries.runtimeconfig.dev.json
+C:\Users\maarj\OneDrive\Töölaud\RestCountries\bin\Debug\netcoreapp3.1\RestCountries.dll
+C:\Users\maarj\OneDrive\Töölaud\RestCountries\bin\Debug\netcoreapp3.1\RestCountries.pdb
+C:\Users\maarj\OneDrive\Töölaud\RestCountries\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\maarj\OneDrive\Töölaud\RestCountries\obj\Debug\netcoreapp3.1\RestCountries.csproj.CopyComplete
+C:\Users\maarj\OneDrive\Töölaud\RestCountries\obj\Debug\netcoreapp3.1\RestCountries.dll
+C:\Users\maarj\OneDrive\Töölaud\RestCountries\obj\Debug\netcoreapp3.1\RestCountries.pdb
